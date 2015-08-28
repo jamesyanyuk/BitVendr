@@ -1,2 +1,2 @@
 # BitVendr
-Quick and Simple Bitcoin Exchange Platform
+Simplfies buying and selling of Bitcoins
